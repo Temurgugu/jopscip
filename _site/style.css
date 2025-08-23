@@ -424,3 +424,38 @@ details[open] .accordion-header::after {
     padding: 10px;
   }
 }
+
+
+
+details.collapsible {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin: 15px 0;
+}
+
+details.collapsible[open] {
+  background-color: #eef6ff;
+}
+
+details.collapsible > summary {
+  font-weight: 600;
+  cursor: pointer;
+  color: #2a5db0;
+  padding: 6px 0;
+  display: block;
+}
+
+details.collapsible > summary::marker {
+  content: "▶";
+}
+
+details.collapsible[open] > summary::marker {
+  content: "▼";
+}
+
+details.collapsible > *:not(summary) {
+  margin-top: 8px;
+  line-height: 1.5;
+}

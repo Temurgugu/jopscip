@@ -2,49 +2,138 @@
 title: "Day 1"
 description: |
   Digital Academic Identity & Research Project Management
+  
+css: "style.css"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<div class="timeline-container">
+
 
 ## SESSION 1: Building Your Digital Academic Identity
-<div class="session-header">
-  <span class="time-badge">80 minutes</span>
-  <span class="session-time">9:00 - 10:20 AM</span>
-</div>
 
-<details class="accordion-item">
-<summary class="accordion-header">
-  <span class="accordion-title">🌐 Introduction to Digital Identity</span>
-  <span class="duration">15 minutes</span>
-</summary>
-<div class="accordion-content">
+## SESSION 2: Research Project Management & Communication
 
-### Learning Objectives
-- Understand the importance of digital academic presence in modern research
-- Identify key components of professional online identity
-- Recognize the impact of digital footprint on career development
-- Develop strategies for authentic online representation
 
-#### Content Overview
-- What is digital academic identity and why does it matter?
-- The evolving landscape of academic communication
-- Platform ecosystem and strategic selection
-- Building credibility through consistent online presence
+## SESSION 3: Collaborative Research & Teaching Tools (40 minutes)
 
-#### Interactive Activities
-- **Digital Presence Audit**: Self-assessment of current online footprint
-- **Platform Mapping**: Identify which platforms serve different professional purposes
-- **Discussion Forum**: Share experiences with online academic platforms
-- **Goal Setting**: Define personal digital identity objectives
 
-#### Key Takeaways
-- Digital identity is an extension of professional reputation
-- Consistency across platforms builds trust and recognition
-- Strategic platform selection maximizes impact
+### Web Annotation with Hypothesis.is
 
-</div>
+
+<video width="100%" height="400" controls>
+  <source src="https://web.hypothes.is/wp-content/uploads/2024/09/V.mp4?_=1" type="video/mp4">
+</video>
+
+
+
+**Hypothesis Social Annotation**
+
+- Comment & Highlight
+- Discussions
+- Collaboration
+
+**Why Use Hypothesis.is?**
+
+- Lack of commenting on websites 
+- Fragmented collaboration 
+- Difficulty tracking insights
+- Passive reading 
+- Knowledge sharing 
+
+**Registration**
+
+<details class="collapsible">
+<summary>Sign up</summary>
+
+- Sign up https://hypothes.is/signup
+
+*Please check your email and open the link to activate your account.*
+
 </details>
+
+<details class="collapsible">
+<summary>Add Extension</summary>
+- Add the Hypothesis Extension to Your Browser [here](https://chromewebstore.google.com/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek)
+
+
+![](images/chrome-pin-extension-01.jpg)
+
+</details>
+
+
+
+**Create  group & tags**
+
+<details class="collapsible">
+<summary>Create  group</summary>
+
+- Create  group
+
+![](images/Screenshot01.png){ width=50% }
+
+- Invite new members - https://hypothes.is/groups/exZxre6g/workshop
+
+</details>
+
+
+<details class="collapsible">
+<summary>Create  tags</summary>
+
+- Create  tags
+
+</details>
+
+
+
+
+**Examples**
+
+<details class="collapsible">
+<summary> Example 1 </summary>
+
+Examples 1 [here](https://www.mountainapp.net/blog/migration-from-mountains-in-switzerland-and-georgia)
+
+
+
+
+
+</details>
+
+
+<details class="collapsible">
+<summary> Example 2 </summary>
+
+
+
+Example 2 [here](https://www.mountainapp.net/blog/nature-conservation-and-regional-economic-development)
+
+
+</details>
+
+
+**Ley’s Annotation**
+
+<details class="collapsible">
+<summary> Annotation Types </summary>
+
+
+- Notes - Create a note by selecting some text and clicking the  button
+
+- Page Notes 
+
+- Highlights - Highlights can be created by clicking the  button. Try it on this sentence.
+
+- Replies - You can reply to any annotation by using the  reply action on every card.
+
+</details>
+
+
+
+**Annotation Article**
+
+Article about wine [here](https://www.nationalgeographic.com/history/article/oldest-winemaking-grapes-georgia-archaeology)
+
+

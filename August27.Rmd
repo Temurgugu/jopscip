@@ -2,64 +2,15 @@
 title: "Day 2"
 description: |
   Advanced Research Skills & Professional Development
+toc: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<div class="timeline-container day2">
 
-## SESSION 3: Data Management & Reproducible Research
-<div class="session-header">
-  <span class="time-badge">80 minutes</span>
-  <span class="session-time">9:00 - 10:20 AM</span>
-</div>
+# 1
 
-<details class="accordion-item">
-<summary class="accordion-header">
-  <span class="accordion-title">📊 Research Data Management Principles</span>
-  <span class="duration day2-duration">20 minutes</span>
-</summary>
-<div class="accordion-content">
 
-### Learning Objectives
-- Master FAIR data principles for modern research
-- Develop comprehensive data lifecycle management strategies
-- Create robust data organization and documentation systems
-- Understand legal and ethical considerations in data management
-
-#### FAIR Data Principles Deep Dive
-- **Findable**: Metadata standards and persistent identifiers
-- **Accessible**: Data repositories and access protocols
-- **Interoperable**: Standard formats and vocabularies
-- **Reusable**: Licensing, provenance, and quality documentation
-
-#### Data Lifecycle Management
-- **Planning Phase**: Data management plans (DMP) creation
-- **Collection Phase**: Standardized procedures and quality control
-- **Analysis Phase**: Version control and processing documentation
-- **Sharing Phase**: Repository selection and metadata preparation
-- **Preservation Phase**: Long-term storage and migration strategies
-
-#### Practical Implementation
-- **File Naming Systems**: Consistent, descriptive, and sortable conventions
-- **Folder Hierarchies**: Logical structure reflecting research workflow
-- **Metadata Creation**: Essential information for future discoverability
-- **Documentation Standards**: README files, codebooks, and data dictionaries
-
-#### Legal & Ethical Framework
-- Data protection regulations (GDPR, institutional policies)
-- Informed consent and participant privacy
-- Intellectual property and licensing considerations
-- Collaborative data sharing agreements
-
-#### Tools & Resources
-- DMP creation platforms and templates
-- Metadata schema selection guides
-- Data repository comparison matrix
-- Quality assessment checklists
-
-</div>
-</details>
-
+## 2 
