@@ -12,11 +12,67 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-## SESSION 1: Building Your Digital Academic Identity
+## SESSION 1: Building Your Digital Academic Identity  (80 minutes)
+
+### Part A: ORCID - Your Universal Academic Identifier and profile system
+
+
+### Part B: Google Scholar & ResearchGate Integration
+
+
+### Part C: Personal Websites & Social Media for Academics
+
+**Personal Websites - Professional online presence options**
+
+<details class="collapsible">
+<summary>  Personal Websites 1 </summary>
+
+<iframe 
+  src="https://temurgugushvili.ge/" 
+  width="100%" 
+  height="600px" 
+  style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+
+</details>
+
+
+<details class="collapsible">
+<summary>  Personal Websites 2 </summary>
+
+<iframe 
+  src="https://www.normanbackhaus.ch/" 
+  width="100%" 
+  height="600px" 
+  style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+
+</details>
+
+
+**How to Create Personal Website?**
+
+- Wix
+- WordPress.com
+- Canva
+- Quarto (R)
+- 
+
+**Academic social media - Strategic use of platforms for research dissemination**
+
 
 ## SESSION 2: Research Project Management & Communication
 
 ### Part A: ASANA for Research Project Management
+
+
+<details class="collapsible">
+<summary> Create asana account</summary>
+
+Create asana account [here](https://asana.com/create-account)
+
+</details>
+
 
 ### Part B: SLACK for Research Team Communication
 
@@ -44,12 +100,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <details class="collapsible">
 <summary> Sign up </summary>
 
-<iframe 
-  src="https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&view_only=" 
-  width="100%" 
-  height="600px" 
-  style="border:1px solid #ccc; border-radius:8px;">
-</iframe>
+![](images/OSF01.png){ width=80% }
 
 Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&view_only=)
 
@@ -60,13 +111,7 @@ Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 <summary> Search OSF </summary>
 
 
-<iframe 
-  src="https://osf.io/search?activeFilters=%5B%5D&q=&sort=-relevance&view_only=" 
-  width="100%" 
-  height="600px" 
-  style="border:1px solid #ccc; border-radius:8px;">
-</iframe>
-
+![](images/OSF02.png){ width=100% }
 
 </details>
 
@@ -75,14 +120,9 @@ Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 <details class="collapsible">
 <summary> Create OSF project </summary>
 
-<iframe 
-  src="https://osf.io/dashboard" 
-  width="100%" 
-  height="600px" 
-  style="border:1px solid #ccc; border-radius:8px;">
-</iframe>
+![](images/OSF03.png){ width=80% }
 
-
+</details>
 
 </details>
 
