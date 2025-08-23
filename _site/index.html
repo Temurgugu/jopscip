@@ -110,7 +110,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site","output"]}},"value":[{"type":"character","attributes":{},"value":["JOPSCIP Workshop"]},{"type":"character","attributes":{},"value":["Digital Solutions for Research and E-portfolio!\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["css"]}},"value":[{"type":"character","attributes":{},"value":["style.css"]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site","output"]}},"value":[{"type":"character","attributes":{},"value":["JOPSCIP Workshop"]},{"type":"character","attributes":{},"value":["Digital Solutions for Research and E-portfolio!\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["css","includes"]}},"value":[{"type":"character","attributes":{},"value":["style.css"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["in_header"]}},"value":[{"type":"character","attributes":{},"value":["password.js"]}]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2110,6 +2110,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var pass = prompt("Enter password to access JOPSCIP Workshop site:");
+    if (pass !== "yourpassword123") {
+      document.body.innerHTML = "<h2 style='text-align:center;margin-top:50px;'>Access Denied</h2>";
+    }
+  });
+  </script>
 
   <link rel="stylesheet" href="style.css" type="text/css"/>
 
