@@ -1,0 +1,50 @@
+---
+title: "Day 1"
+description: |
+  Digital Academic Identity & Research Project Management
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<div class="timeline-container">
+
+## SESSION 1: Building Your Digital Academic Identity
+<div class="session-header">
+  <span class="time-badge">80 minutes</span>
+  <span class="session-time">9:00 - 10:20 AM</span>
+</div>
+
+<details class="accordion-item">
+<summary class="accordion-header">
+  <span class="accordion-title">🌐 Introduction to Digital Identity</span>
+  <span class="duration">15 minutes</span>
+</summary>
+<div class="accordion-content">
+
+### Learning Objectives
+- Understand the importance of digital academic presence in modern research
+- Identify key components of professional online identity
+- Recognize the impact of digital footprint on career development
+- Develop strategies for authentic online representation
+
+#### Content Overview
+- What is digital academic identity and why does it matter?
+- The evolving landscape of academic communication
+- Platform ecosystem and strategic selection
+- Building credibility through consistent online presence
+
+#### Interactive Activities
+- **Digital Presence Audit**: Self-assessment of current online footprint
+- **Platform Mapping**: Identify which platforms serve different professional purposes
+- **Discussion Forum**: Share experiences with online academic platforms
+- **Goal Setting**: Define personal digital identity objectives
+
+#### Key Takeaways
+- Digital identity is an extension of professional reputation
+- Consistency across platforms builds trust and recognition
+- Strategic platform selection maximizes impact
+
+</div>
+</details>

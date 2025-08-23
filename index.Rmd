@@ -1,0 +1,67 @@
+---
+title: "JOPSCIP Workshop"
+description: |
+  Digital Solutions for Research and E-portfolio!
+site: distill::distill_website
+output:
+  distill::distill_article:
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(distill)
+library(htmltools)
+
+# Include external CSS file
+includeCSS("style.css")
+```
+
+<div class="workshop-intro">
+## Welcome to JOPSCIP Workshop
+### Digital Solutions for Research and E-portfolio
+
+This workshop provides comprehensive training and resources for modern research methodologies and digital portfolio development. Our expert facilitators bring extensive experience in academic research and digital innovation.
+</div>
+
+## Meet Our Team
+
+```{r team-profiles, echo=FALSE, layout="l-body-outset"}
+# Create team section using simple HTML
+div(class = "team-grid",
+  div(class = "team-card",
+    img(src = "images/temur_gugushvili.jpg", alt = "Temur Gugushvili", class = "team-photo"),
+    div(class = "team-name", "Temur Gugushvili"),
+    div(class = "team-title", "Senior Researcher & Workshop Facilitator", br(), "Digital Innovation Lab"),
+    div(class = "team-links",
+      a(href = "https://www.linkedin.com/in/temur-gugushvili/", target = "_blank", "LinkedIn"),
+      a(href = "https://scholar.google.com/citations?user=XIuUIMwAAAAJ&hl=en&oi=ao", target = "_blank", "Google Scholar")
+    )
+  ),
+  div(class = "team-card",
+    img(src = "images/gvantsa_salukvadze.jpg", alt = "Gvantsa Salukvadze", class = "team-photo"),
+    div(class = "team-name", "Gvantsa Salukvadze"),
+    div(class = "team-title", "Research Coordinator & E-portfolio Specialist", br(), "Academic Technology Center"),
+    div(class = "team-links",
+      a(href = "https://www.linkedin.com/in/gvantsa-salukvadze/", target = "_blank", "LinkedIn"),
+      a(href = "https://scholar.google.com/citations?user=O0k2rcgAAAAJ&hl=en&oi=ao", target = "_blank", "Google Scholar")
+    )
+  )
+)
+```
+
+## Workshop Sessions:
+
+- **Digital Identity**: Building Your Digital Academic Identity
+- **Project Management**: Research Project Management & Communication
+- **Literature Organization**: Reference Management & Literature Organization
+- **Data Handling**: Data Collection and Analysis & AI-Enhanced
+Literature Review
+
+## Getting Started
+
+Ready to enhance your research capabilities? Explore our workshop materials and connect with our team for personalized guidance on your digital research journey.
+
+---
+
+*For questions or additional information, please contact  on following email tgugushvili[at]ibsu.edu.ge, gvantsa.salukvadze[at]tsu.ge*

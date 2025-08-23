@@ -1,0 +1,426 @@
+/* JOPSCIP Workshop Website Styles */
+
+/* Team Section Grid Layout */
+.team-grid { 
+  display: grid; 
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+  gap: 2rem; 
+  margin: 2rem 0; 
+}
+
+/* Individual Team Cards */
+.team-card { 
+  text-align: center; 
+  padding: 1.5rem; 
+  border: 1px solid #e1e5e9; 
+  border-radius: 8px; 
+}
+
+/* Profile Photos */
+.team-photo { 
+  width: 120px; 
+  height: 420px; 
+  border-radius: 50%; 
+  margin: 0 auto 1rem; 
+  display: block; 
+  border: 3px solid #0077be; 
+  object-fit: cover;
+}
+
+/* Team Member Names */
+.team-name { 
+  font-size: 1.25rem; 
+  font-weight: 600; 
+  margin-bottom: 0.5rem; 
+  color: #333;
+}
+
+/* Team Member Titles/Affiliations */
+.team-title { 
+  color: #666; 
+  font-size: 0.9rem; 
+  margin-bottom: 1rem; 
+  line-height: 1.4;
+}
+
+/* Social Links Container */
+.team-links {
+  margin-top: 1rem;
+}
+
+/* Individual Link Buttons */
+.team-links a { 
+  display: inline-block; 
+  margin: 0 0.5rem; 
+  padding: 0.25rem 0.75rem; 
+  background: #0077be; 
+  color: white; 
+  text-decoration: none; 
+  border-radius: 4px; 
+  font-size: 0.8rem; 
+  transition: background-color 0.3s ease;
+}
+
+.team-links a:hover {
+  background: #005a94;
+  color: white;
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .team-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .team-card {
+    padding: 1rem;
+  }
+  
+  .team-photo {
+    width: 200px;
+    height: 400px;
+  }
+  
+  .team-links a {
+    display: block;
+    margin: 0.25rem 0;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+}
+
+/* Additional utility classes */
+.text-center {
+  text-align: center;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+/* Timeline and Accordion Styles for JOPSCIP Workshop */
+
+.timeline-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.session-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 0 20px 0;
+  padding: 10px 0;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.time-badge {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+.session-time {
+  color: #6c757d;
+  font-weight: 500;
+  font-size: 1.1em;
+}
+
+.accordion-item {
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 16px;
+  overflow: hidden;
+  background: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%);
+  box-shadow: 
+    0 8px 32px rgba(0,0,0,0.12),
+    0 2px 8px rgba(0,0,0,0.08),
+    inset 0 1px 0 rgba(255,255,255,0.9);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+}
+
+.accordion-item::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea, #764ba2, #f093fb, #f5576c);
+  background-size: 300% 100%;
+  animation: shimmer 3s ease-in-out infinite;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.accordion-item:hover::before {
+  opacity: 1;
+}
+
+@keyframes shimmer {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.accordion-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 
+    0 16px 48px rgba(0,0,0,0.16),
+    0 8px 16px rgba(0,0,0,0.12),
+    inset 0 1px 0 rgba(255,255,255,0.9);
+}
+
+.accordion-header {
+  background: linear-gradient(135deg, rgba(255,255,255,0.95) 0%, rgba(248,249,250,0.95) 100%);
+  padding: 24px 28px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  list-style: none;
+  position: relative;
+  backdrop-filter: blur(10px);
+}
+
+.accordion-header::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-header::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 0;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 0 4px 4px 0;
+  transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.accordion-header:hover::before {
+  height: 60%;
+}
+
+.accordion-header::after {
+  content: '⊕';
+  font-size: 1.8em;
+  color: transparent;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  background-clip: text;
+  -webkit-background-clip: text;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  filter: drop-shadow(0 2px 4px rgba(102, 126, 234, 0.3));
+  font-weight: 300;
+}
+
+details[open] .accordion-header::after {
+  transform: rotate(45deg) scale(1.1);
+  filter: drop-shadow(0 4px 8px rgba(102, 126, 234, 0.4));
+}
+
+.accordion-header:hover {
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
+  transform: translateX(8px);
+}
+
+.accordion-title {
+  font-size: 1.2em;
+  color: #2c3e50;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  letter-spacing: 0.5px;
+}
+
+.duration {
+  background: linear-gradient(135deg, #17a2b8, #138496);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.85em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  box-shadow: 
+    0 4px 12px rgba(23, 162, 184, 0.3),
+    inset 0 1px 0 rgba(255,255,255,0.2);
+  position: relative;
+  overflow: hidden;
+}
+
+.duration::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+  transition: left 0.6s ease;
+}
+
+.accordion-header:hover .duration::before {
+  left: 100%;
+}
+
+/* Day 2 specific duration styling */
+.day2-duration {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  box-shadow: 
+    0 4px 12px rgba(40, 167, 69, 0.3),
+    inset 0 1px 0 rgba(255,255,255,0.2);
+}
+
+.accordion-content {
+  padding: 32px 28px;
+  background: linear-gradient(135deg, rgba(255,255,255,0.98) 0%, rgba(248,249,250,0.95) 100%);
+  border-top: 1px solid rgba(222, 226, 230, 0.5);
+  backdrop-filter: blur(10px);
+  position: relative;
+  animation: slideDown 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.accordion-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 28px;
+  right: 28px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(102, 126, 234, 0.3), transparent);
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+    max-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    max-height: 2000px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+}
+
+.accordion-content h3 {
+  color: #495057;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 1.15em;
+  font-weight: 700;
+  position: relative;
+  padding-left: 20px;
+}
+
+.accordion-content h3::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 20px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 2px;
+}
+
+.accordion-content h4 {
+  color: #6c757d;
+  margin-top: 24px;
+  margin-bottom: 12px;
+  font-size: 1.05em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 0.95em;
+}
+
+.accordion-content ul {
+  padding-left: 24px;
+  margin-bottom: 20px;
+}
+
+.accordion-content li {
+  margin-bottom: 12px;
+  line-height: 1.7;
+  position: relative;
+  padding-left: 8px;
+}
+
+.accordion-content li::before {
+  content: '▸';
+  position: absolute;
+  left: -16px;
+  color: #667eea;
+  font-weight: bold;
+  transition: transform 0.2s ease;
+}
+
+.accordion-content li:hover::before {
+  transform: translateX(2px);
+}
+
+/* Day 2 specific styling - different gradient */
+.day2 .time-badge {
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.day2 .accordion-header::after {
+  background: linear-gradient(135deg, #764ba2, #667eea);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.day2 .accordion-content h3::before {
+  background: linear-gradient(135deg, #764ba2, #667eea);
+}
+
+.day2 .accordion-content li::before {
+  color: #764ba2;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .session-header {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+  
+  .accordion-header {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+  
+  .accordion-title {
+    font-size: 1em;
+  }
+  
+  .timeline-container {
+    padding: 10px;
+  }
+}
