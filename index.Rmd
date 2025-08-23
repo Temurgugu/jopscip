@@ -32,7 +32,7 @@ This workshop provides comprehensive training and resources for modern research 
 # Create team section using simple HTML
 div(class = "team-grid",
   div(class = "team-card",
-    img(src = "images/temur_gugushvili.jpg", alt = "Temur Gugushvili", class = "team-photo"),
+    img(src = "images/temur_gugushvili.jpeg", alt = "Temur Gugushvili", class = "team-photo"),
     div(class = "team-name", "Temur Gugushvili"),
     div(class = "team-title", "Associate Professor", br(), "IBSU & SCIEN"),
     div(class = "team-links",

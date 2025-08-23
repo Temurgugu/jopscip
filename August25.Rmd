@@ -16,6 +16,112 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## SESSION 2: Research Project Management & Communication
 
+### Part A: ASANA for Research Project Management
+
+### Part B: SLACK for Research Team Communication
+
+### Part C: Open Science Framework (OSF.io) Introduction
+
+<details class="collapsible">
+<summary> About OSF.io </summary>
+
+![Source:Open Science Framework](https://foss.cyverse.org/assets/life_cycle.png){ width=80% }
+
+
+
+</details>
+
+
+<details class="collapsible">
+<summary>  OSF relevant tools </summary>
+
+![Source:Open Science Framework](https://www.cos.io/hs-fs/hubfs/workflow-21.png?width=2800&name=workflow-21.png){ width=100% }
+
+
+</details>
+
+
+<details class="collapsible">
+<summary> Sign up </summary>
+
+<iframe 
+  src="https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&view_only=" 
+  width="100%" 
+  height="600px" 
+  style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+
+Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&view_only=)
+
+</details>
+
+
+<details class="collapsible">
+<summary> Search OSF </summary>
+
+
+<iframe 
+  src="https://osf.io/search?activeFilters=%5B%5D&q=&sort=-relevance&view_only=" 
+  width="100%" 
+  height="600px" 
+  style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+
+
+</details>
+
+
+
+<details class="collapsible">
+<summary> Create OSF project </summary>
+
+<iframe 
+  src="https://osf.io/dashboard" 
+  width="100%" 
+  height="600px" 
+  style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+
+
+
+</details>
+
+### Part D: ArXiv.org - Preprint archive for research dissemination
+
+<details class="collapsible">
+<summary> About arXiv.org </summary>
+
+- **Open-access research platform**: arXiv.org hosts over two million scholarly articles across eight subject areas.
+
+- **Pioneer in digital scholarship**: Founded by Paul Ginsparg in 1991, maintained by Cornell Tech.
+
+- **Fields covered**: Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering & Systems Science, and Economics.
+
+- **Services for researchers**: Article submission, retrieval, search & discovery, web distribution, API access, content curation, and preservation.
+
+- **Moderation process**: Submissions are checked for topical relevance and scholarly value; material is not peer-reviewed.
+
+- **Community and governance**: Curated by volunteer moderators and guided by arXiv Leadership Team and advisory councils.
+
+**Free submission**: Registered users may submit articles without fees.
+
+</details>
+
+
+<details class="collapsible">
+<summary> arXiv.org </summary>
+
+<iframe 
+  src="https://arxiv.org/" 
+  width="100%" 
+  height="600px" 
+  style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+
+</details>
+
+
+
 
 ## SESSION 3: Collaborative Research & Teaching Tools (40 minutes)
 
