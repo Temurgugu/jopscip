@@ -1,5 +1,5 @@
 ---
-title: "JOPSCIP Workshop"
+title: "JOPSCIP Workshop by SCIEN"
 description: |
   Digital Solutions for Research and E-portfolio!
 site: distill::distill_website
