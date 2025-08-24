@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Literature search platforms
 
-🗂️ [Google Scholar](www.scholar.google.com)
+🗂️ [Google Scholar()]https://scholar.google.com/m)
 
 🗂️ [Lens.org](https://www.lens.org/lens/search/scholar/structured)
 
@@ -151,3 +151,8 @@ Individual Work Session:
 - Upload research papers and documents
 - AI-assisted literature synthesis practice
 - Q&A and Wrap-up
+
+
+
+
+[← Back: Day 1](https://jopscipworkshop.netlify.app/august25) | 

@@ -20,10 +20,10 @@ knitr::opts_chunk$set(echo = FALSE)
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGw64_kQXU/KSn7De0gSKLJD2XDWdYBzw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://www.canva.com/design/DAGxBJ1HRO8/qELLC0mSXa-sU-1nP00VCg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGw64_kQXU&#x2F;KSn7De0gSKLJD2XDWdYBzw&#x2F;view?utm_content=DAGw64_kQXU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ORCID for Researchers: What, Why, and How?</a> by Gvantsa Salukvadze
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGxBJ1HRO8&#x2F;qELLC0mSXa-sU-1nP00VCg&#x2F;view?utm_content=DAGxBJ1HRO8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SESSION 1, PART A: ORCID</a> by Gvantsa Salukvadze
 
 ### Part B: Google Scholar & ResearchGate Integration
 
@@ -31,10 +31,10 @@ knitr::opts_chunk$set(echo = FALSE)
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGw64_kQXU/KSn7De0gSKLJD2XDWdYBzw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://www.canva.com/design/DAGxBHB_ibM/dispoc5d1XYByQoWhADfEQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGw64_kQXU&#x2F;KSn7De0gSKLJD2XDWdYBzw&#x2F;view?utm_content=DAGw64_kQXU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ORCID for Researchers: What, Why, and How?</a> by Gvantsa Salukvadze
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGxBHB_ibM&#x2F;dispoc5d1XYByQoWhADfEQ&#x2F;view?utm_content=DAGxBHB_ibM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SESSION 1, PART B: GOOGLE SCHOLAR &amp; RESEARCHGATE</a> by Gvantsa Salukvadze
 
 ### Part C: Personal Websites & Social Media for Academics
 
@@ -72,10 +72,18 @@ knitr::opts_chunk$set(echo = FALSE)
 - WordPress.com
 - Canva
 - Quarto (R)
-- 
+
 
 **Academic social media - Strategic use of platforms for research dissemination**
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGxBOJKpKc/R97MY9uM528dnyoKmhly7A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGxBOJKpKc&#x2F;R97MY9uM528dnyoKmhly7A&#x2F;view?utm_content=DAGxBOJKpKc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SESSION 1, PART C: LINKEDIN</a> by Gvantsa Salukvadze
 
 ## SESSION 2: Research Project Management & Communication
 
@@ -132,6 +140,16 @@ Create asana account [here](https://asana.com/create-account)
 
 ### Part B: SLACK for Research Team Communication
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGxBH56siM/xfN8zQhJC1oU8lVdx5Sp-w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGxBH56siM&#x2F;xfN8zQhJC1oU8lVdx5Sp-w&#x2F;view?utm_content=DAGxBH56siM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SESSION 2, PART B: SLACK</a> by Gvantsa Salukvadze
+
+
 ### Part C: Open Science Framework (OSF.io) Introduction
 
 <details class="collapsible">
@@ -145,7 +163,7 @@ Create asana account [here](https://asana.com/create-account)
 
 
 <details class="collapsible">
-<summary>  OSF relevant tools </summary>
+<summary>  OSF Relevant Tools </summary>
 
 ![Source:Open Science Framework](https://www.cos.io/hs-fs/hubfs/workflow-21.png?width=2800&name=workflow-21.png){ width=100% }
 
@@ -154,11 +172,11 @@ Create asana account [here](https://asana.com/create-account)
 
 
 <details class="collapsible">
-<summary> Sign up </summary>
+<summary> Sign Up (Recommended before the workshop)</summary>
 
 ![](images/OSF01.png){ width=80% }
 
-Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&view_only=)
+Sign Up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&view_only=)
 
 </details>
 
@@ -174,7 +192,7 @@ Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 
 
 <details class="collapsible">
-<summary> Create OSF project </summary>
+<summary> Create OSF Project </summary>
 
 ![](images/OSF03.png){ width=80% }
 
@@ -222,7 +240,7 @@ Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 ## SESSION 3: Collaborative Research & Teaching Tools (40 minutes)
 
 
-### Web Annotation with Hypothesis.is
+### Part A: Web Annotation with Hypothesis.is
 
 
 <video width="100%" height="400" controls>
@@ -248,9 +266,9 @@ Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 **Registration**
 
 <details class="collapsible">
-<summary>Sign up</summary>
+<summary>Sign Up (Recommended before the workshop)</summary>
 
-- Sign up https://hypothes.is/signup
+- Sign Up https://hypothes.is/signup
 
 *Please check your email and open the link to activate your account.*
 
@@ -267,10 +285,10 @@ Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 
 
 
-**Create  group & tags**
+**Create  Group & Tags**
 
 <details class="collapsible">
-<summary>Create  group</summary>
+<summary>Create  Group</summary>
 
 - Create  group
 
@@ -282,7 +300,7 @@ Sign up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 
 
 <details class="collapsible">
-<summary>Create  tags</summary>
+<summary>Create  Tags</summary>
 
 - Create  tags
 
@@ -339,3 +357,4 @@ Example 2 [here](https://www.mountainapp.net/blog/nature-conservation-and-region
 Article about wine [here](https://www.nationalgeographic.com/history/article/oldest-winemaking-grapes-georgia-archaeology)
 
 
+| [Next: Day 2 →](https://jopscipworkshop.netlify.app/august27)
