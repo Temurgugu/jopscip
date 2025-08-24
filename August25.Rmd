@@ -66,11 +66,51 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Part A: ASANA for Research Project Management
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oyVksFviJVE?si=6hFi2Z04JMsyUV1t&amp;start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <details class="collapsible">
-<summary> Create asana account</summary>
+<summary> Scrum Workflow </summary>
+![](https://nira.com/wp-content/uploads/2019/09/Scrum-Board-1-1336x934.png){ width=80% }
+</details>
+
+
+<details class="collapsible">
+<summary> Create an Asana Account (Recommended before the workshop) </summary>
 
 Create asana account [here](https://asana.com/create-account)
 
+</details>
+
+
+<details class="collapsible">
+<summary> Workflow in Asana </summary>
+
+- Create Project 
+  - Color & Icon
+  - Overview
+    -Project description
+    - Add project members
+    - Add files and links
+- Create Sections
+- Create Tasks
+  - Comments
+  - Tags
+  - Subtask
+  - Description
+- Create Project 
+  - List
+  - Board
+  - Import Tasks
+- Inbox
+- My Tasks
+
+</details>
+
+
+<details class="collapsible">
+<summary> Research Project in Asana </summary>
+![ChatGPT](images/ChatGPT01.png)
 </details>
 
 

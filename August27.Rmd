@@ -2,15 +2,152 @@
 title: "Day 2"
 description: |
   Advanced Research Skills & Professional Development
-toc: true
+
+css: "style.css"
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-# 1
+## SESSION 1: Reference Management & Literature Organization (50 minutes)
 
 
-## 2 
+### Part A: Zotero for Research Management
+
+
+
+## Literature search platforms
+
+🗂️ [Google Scholar](www.scholar.google.com)
+
+🗂️ [Lens.org](https://www.lens.org/lens/search/scholar/structured)
+
+🗂️ [ConnectedPapers](www.connectedpapers.com)
+
+
+**Set Up Zotero**
+
+
+<details class="collapsible">
+<summary>Download and Install Zotero (Recommended before the workshop)</summary>
+
+- Go to [Zotero.org/download](https://www.zotero.org/download/)
+- Download Zotero Desktop (Windows, macOS, or Linux).
+- Install the software on your computer [Video Instructions](https://www.youtube.com/watch?v=JG7Uq_JFDzE).
+
+</details>
+
+
+<details class="collapsible">
+<summary>Install the Zotero Connector (Recommended before the workshop)</summary>
+
+
+- [Download the Zotero Connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc) for your browser (Chrome, Firefox, Edge, or Safari).
+
+*This lets you save references directly from websites, databases, and Google Scholar.*
+
+</details>
+
+
+
+<details class="collapsible">
+<summary>Create a Zotero Account (Recommended before the workshop)</summary>
+
+
+- Go to [Zotero.org](https://www.zotero.org/user/register/)
+- Sign up for a free account (needed for syncing your library across devices).
+
+</details>
+
+
+
+<details class="collapsible">
+<summary> Sync Your Library (Recommended before the workshop)</summary>
+
+- Open the Zotero desktop app.
+- Go to Edit → Preferences → Sync.
+- Enter your Zotero account details and enable syncing.
+
+</details>
+
+
+
+<details class="collapsible">
+<summary> Sync Your Library (Recommended before the workshop)</summary>
+
+- Open the Zotero desktop app.
+- Go to Edit → Preferences → Sync.
+- Enter your Zotero account details and enable syncing.
+
+</details>
+
+
+<details class="collapsible">
+<summary> Sync Your Library (Recommended before the workshop)</summary>
+
+- Open the Zotero desktop app.
+- Go to Edit → Preferences → Sync.
+- Enter your Zotero account details and enable syncing.
+
+</details>
+
+
+<details class="collapsible">
+<summary> Sync Your Library (Recommended before the workshop)</summary>
+
+- Open the Zotero desktop app.
+- Go to Edit → Preferences → Sync.
+- Enter your Zotero account details and enable syncing.
+
+</details>
+
+👩🏻‍💻 [Zotero-ში დაამატე სამეცნიერო წყაროების (და არამარტო) ბიბლიოგრაფიული ინფორმაცია](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=168s) 
+
+🧑‍💻 [შექმენი საქაღალდე [Collection]](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=168s)
+
+👩🏻‍💻 ციტირება [Microsoft Word-ში](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=168s)
+
+🧑‍💻 ციტირება [Google Docs-ში](https://www.youtube.com/watch?v=1R9vEvC7xXk)
+
+## ლიტერატურა
+
+{{< spoiler text="ძირითადი ლიტერატურა" >}}
+📘 ლია წულაძე. სოციოლოგიური კვლევის თვისებრივი მეთოდები. უნივერსიტეტის გამომცემლობა. 2020. გვ., 365 – 369;
+
+📘 ჩავა ფრანკფორტ-ნაჩმიასი, დევიდ ნაჩმიასი. კვლევის მეთოდები სოციალურ მეცნიერებებში. ილია ჭავჭავაძის უნივერსიტეტის გამომცემლობა. თბილისი 2008. გვ., 744 – 746;
+
+📘	თემურ გუგუშვილი, ნინო პავლიაშვილი, გვანცა სალუქვაძე, მერაბ ხოხობაია, შემთხვევის შესწავლის ტრანსდისციპლინური საველე კურსის შემუშავება და განხორციელება, 2020. 57 – 60.
+{{< /spoiler >}}
+
+[📚 ელ. ბიბლიოთეკა](https://drive.google.com/drive/folders/14XCctw4mjJ4SWiFpQpUqQ6suK9XfqpS8?usp=sharing)
+
+## რესურსები
+
+#### ლიტერატურის მიმოხილვის დროს დაშვებული შეცდომები
+
+{{< youtube IJDS0eXBwbg >}}
+
+[სტატია](https://www.nature.com/articles/s41559-020-01295-x)
+
+
+## SESSION 2: Data Collection and Analysis & AI-Enhanced Literature Review (70 minutes)
+
+### Part A: Kobotoolbox for Data Collection
+
+
+### Part B: MAXQDA for Qualitative Research Analysis
+
+
+### Part C: AI-Enhanced Literature Review
+
+STORM (Stanford) - AI research assistant for comprehensive
+literature reviews
+NotebookLM.google - AI-powered literature review and synthesis
+Individual Work Session:
+- Account setup and first notebook creation
+- Upload research papers and documents
+- AI-assisted literature synthesis practice
+- Q&A and Wrap-up
