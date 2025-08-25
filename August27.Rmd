@@ -73,32 +73,39 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<details class="collapsible">
-<summary> Sync Your Library (Recommended before the workshop)</summary>
 
-- Open the Zotero desktop app.
-- Go to Edit → Preferences → Sync.
-- Enter your Zotero account details and enable syncing.
+<details class="collapsible">
+<summary> Add Preferences to Zotero </summary>
+
+- Using the Zotero Connector
+- Manual Entry
+- Add by Identifier
+
+See instruction [video](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=168s)
 
 </details>
 
 
 <details class="collapsible">
-<summary> Sync Your Library (Recommended before the workshop)</summary>
+<summary> Organize Your References </summary>
 
-- Open the Zotero desktop app.
-- Go to Edit → Preferences → Sync.
-- Enter your Zotero account details and enable syncing.
+- Use Collections (folders) to group references by project or theme.
+
+See instruction [video](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=362s)
 
 </details>
 
 
 <details class="collapsible">
-<summary> Sync Your Library (Recommended before the workshop)</summary>
+<summary> Cite in Microsoft Word & Google Docs </summary>
 
-- Open the Zotero desktop app.
-- Go to Edit → Preferences → Sync.
-- Enter your Zotero account details and enable syncing.
+- Zotero installs a plugin for Word and LibreOffice automatically.
+- For Google Docs, the Connector adds a Zotero menu.
+- This allows you to insert citations and generate bibliographies directly.
+
+See instruction  [video](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=512s) for Microsoft Word
+
+See instruction [video](https://www.youtube.com/watch?v=1R9vEvC7xXk) for Google Docs 
 
 </details>
 
