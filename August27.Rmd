@@ -120,7 +120,48 @@ See instruction [video](https://www.youtube.com/watch?v=1R9vEvC7xXk) for Google 
 
 ### Part C: AI-Enhanced Literature Review
 
+**STORM - Stanford University**
 
+
+**NotebookLM.google** 
+
+- AI-powered research assistant – 
+  - organize, 
+  - analyze,  
+  - generate insights
+
+- Source-grounded summaries – provides explanations and answers based only on the materials you upload (PDFs, Google Docs, etc.), 
+
+**Adventages**
+- Reducing the risk of hallucinations.
+- Everything is traceable back to your uploaded sources.
+
+
+**Getting Started with NotebookLM (Google)**
+
+- Sign In 
+  - Go to notebooklm.google
+  - Sign in with your Google account (Gmail).
+
+- Create a New Notebook
+  - Click “New Notebook”.
+  - Give your notebook a name (e.g., Research Project, Thesis Review).
+
+- Upload Sources
+  - Add Google Docs, PDFs, or web-page
+  - NotebookLM will build an AI model grounded only in your sources.
+
+- Ask Questions
+  - Use the chat box to ask questions.
+  - Example: “Summarize Chapter 2 in 5 bullet points” or “Compare methods A and B”.
+
+- Generate Insights
+  - Get summaries, outlines, or concept maps.
+  
+- NotebookLM Audios Overviews
+  - AI-Generated Summary Audios
+- Collaborate & Export
+  - Share notebooks with teammates.
 
 
 [← Back: Day 1](https://jopscipworkshop.netlify.app/august25) | 
