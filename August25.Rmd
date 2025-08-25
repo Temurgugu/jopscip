@@ -25,6 +25,27 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGxBJ1HRO8&#x2F;qELLC0mSXa-sU-1nP00VCg&#x2F;view?utm_content=DAGxBJ1HRO8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SESSION 1, PART A: ORCID</a> by Gvantsa Salukvadze
 
+**Public Profile of ORCID**
+
+<details class="collapsible">
+<summary> Copy ORCID Link  </summary>
+
+Step 1 
+
+
+![](images/ORCID01.png){ width=80% }
+
+Step 2
+
+![](images/ORCID02.png){ width=80% }
+
+</details>
+
+
+
+
+
+
 ### Part B: Google Scholar & ResearchGate Integration
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
