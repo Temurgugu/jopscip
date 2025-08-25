@@ -116,5 +116,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-
 [← Back: Day 1](https://jopscipworkshop.netlify.app/august25) | 

@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-## SESSION 1: Building Your Digital Academic Identity  (80 minutes)
+## SESSION 1: Building Your Digital Academic Identity  (70 minutes)
 
 ### Part A: ORCID - Your Universal Academic Identifier and profile system
 
@@ -85,7 +85,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGxBOJKpKc&#x2F;R97MY9uM528dnyoKmhly7A&#x2F;view?utm_content=DAGxBOJKpKc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SESSION 1, PART C: LINKEDIN</a> by Gvantsa Salukvadze
 
-## SESSION 2: Research Project Management & Communication
+## SESSION 2: Research Project Management & Communication (70 minutes)
 
 ### Part A: ASANA for Research Project Management
 
