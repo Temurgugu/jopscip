@@ -74,6 +74,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+
+<details class="collapsible">
+<summary> Organize Your References </summary>
+
+- Use Collections (folders) to group references by project or theme.
+
+See instruction [video](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=362s)
+
+</details>
+
+
+
+
 <details class="collapsible">
 <summary> Add Preferences to Zotero </summary>
 
@@ -85,15 +98,6 @@ See instruction [video](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=168s)
 
 </details>
 
-
-<details class="collapsible">
-<summary> Organize Your References </summary>
-
-- Use Collections (folders) to group references by project or theme.
-
-See instruction [video](https://www.youtube.com/watch?v=JG7Uq_JFDzE&t=362s)
-
-</details>
 
 
 <details class="collapsible">
@@ -114,6 +118,18 @@ See instruction [video](https://www.youtube.com/watch?v=1R9vEvC7xXk) for Google 
 
 ### Part A: Kobotoolbox for Data Collection
 
+<details class="collapsible">
+<summary> KoboToolbox Materials </summary>
+
+KoboToolbox is a software platform used to collect, analyze, and manage data for surveys, monitoring, evaluation, and research.
+
+![](https://aikyamfellows.org/content/images/size/w1200/format/webp/2024/10/kobo-2.png){ width=80% }
+
+7-steps for designing mobile data collection 👉 [Video](https://www.youtube.com/watch?v=goDUaHEkrB4) instructions. 
+
+</details>
+
+
 
 ### Part B: MAXQDA for Qualitative Research Analysis
 
@@ -130,7 +146,7 @@ See instruction [video](https://www.youtube.com/watch?v=1R9vEvC7xXk) for Google 
   - analyze,  
   - generate insights
 
-- Source-grounded summaries – provides explanations and answers based only on the materials you upload (PDFs, Google Docs, etc.), 
+Source-grounded summaries – provides explanations and answers based only on the materials you upload (PDFs, Google Docs, etc.), 
 
 **Adventages**
 - Reducing the risk of hallucinations.
@@ -139,29 +155,25 @@ See instruction [video](https://www.youtube.com/watch?v=1R9vEvC7xXk) for Google 
 
 **Getting Started with NotebookLM (Google)**
 
+<details class="collapsible">
+<summary> KoboToolbox Materials </summary>
 - Sign In 
   - Go to notebooklm.google
-  - Sign in with your Google account (Gmail).
-
+  - Sign in with your Google account (Gmail)
 - Create a New Notebook
-  - Click “New Notebook”.
-  - Give your notebook a name (e.g., Research Project, Thesis Review).
-
+  - Click “New Notebook”
+  - Give your notebook a name (e.g., Research Project, Thesis Review)
 - Upload Sources
   - Add Google Docs, PDFs, or web-page
-  - NotebookLM will build an AI model grounded only in your sources.
-
+  - NotebookLM will build an AI model grounded only in your sources
 - Ask Questions
   - Use the chat box to ask questions.
-  - Example: “Summarize Chapter 2 in 5 bullet points” or “Compare methods A and B”.
-
+  - Example: “Summarize Chapter 2 in 5 bullet points” or “Compare methods A and B”
 - Generate Insights
-  - Get summaries, outlines, or concept maps.
-  
+  - Get summaries, outlines, or concept maps
 - NotebookLM Audios Overviews
   - AI-Generated Summary Audios
-- Collaborate & Export
-  - Share notebooks with teammates.
 
+</details>
 
 [← Back: Day 1](https://jopscipworkshop.netlify.app/august25) | 
