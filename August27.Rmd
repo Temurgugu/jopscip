@@ -156,7 +156,7 @@ Source-grounded summaries – provides explanations and answers based only on th
 **Getting Started with NotebookLM (Google)**
 
 <details class="collapsible">
-<summary> KoboToolbox Materials </summary>
+<summary> NotebookLM </summary>
 - Sign In 
   - Go to notebooklm.google
   - Sign in with your Google account (Gmail)
