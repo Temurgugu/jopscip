@@ -309,7 +309,7 @@ Sign Up [here](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&vi
 </details>
 
 <details class="collapsible">
-<summary>Add Extension</summary>
+<summary>Add Extension (Recommended before the workshop)</summary>
 - Add the Hypothesis Extension to Your Browser [here](https://chromewebstore.google.com/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek)
 
 
